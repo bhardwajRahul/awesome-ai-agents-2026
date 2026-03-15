@@ -179,6 +179,7 @@
 | [Airtop](https://airtop.ai) | Enterprise browser automation. AI integration. |
 | [Amazon Nova Act](https://aws.amazon.com/ai/nova/) | AWS browser automation. Enterprise reliability. |
 | [Playwright MCP](https://github.com/microsoft/playwright-mcp) | MCP server for Playwright + AI agents. |
+| [onUI](https://github.com/onllm-dev/onUI) | OSS browser extension and MCP server for annotation-first UI pair programming with AI agents. Chrome, Edge, Firefox. Privacy-first, local only. |
 
 ---
 
